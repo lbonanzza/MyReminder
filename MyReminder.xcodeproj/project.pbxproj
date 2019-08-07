@@ -8,22 +8,52 @@
 
 /* Begin PBXBuildFile section */
 		3F03AFA722F8266600C194CF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F03AFA622F8266600C194CF /* AppDelegate.swift */; };
-		3F03AFA922F8266600C194CF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F03AFA822F8266600C194CF /* ViewController.swift */; };
+		3F03AFA922F8266600C194CF /* AddTasksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F03AFA822F8266600C194CF /* AddTasksViewController.swift */; };
 		3F03AFAC22F8266600C194CF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F03AFAA22F8266600C194CF /* Main.storyboard */; };
 		3F03AFAF22F8266600C194CF /* MyReminder.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3F03AFAD22F8266600C194CF /* MyReminder.xcdatamodeld */; };
 		3F03AFB122F8266700C194CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F03AFB022F8266700C194CF /* Assets.xcassets */; };
 		3F03AFB422F8266700C194CF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F03AFB222F8266700C194CF /* LaunchScreen.storyboard */; };
+		3F03AFD922F829C700C194CF /* Icon-App-20x20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F03AFCD22F829C600C194CF /* Icon-App-20x20@3x.png */; };
+		3F03AFDA22F829C700C194CF /* Icon-App-40x40@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F03AFCE22F829C600C194CF /* Icon-App-40x40@1x.png */; };
+		3F03AFDB22F829C700C194CF /* Icon-App-40x40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F03AFCF22F829C600C194CF /* Icon-App-40x40@3x.png */; };
+		3F03AFDC22F829C700C194CF /* Icon-App-29x29@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F03AFD022F829C700C194CF /* Icon-App-29x29@1x.png */; };
+		3F03AFDD22F829C700C194CF /* Icon-App-20x20@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F03AFD122F829C700C194CF /* Icon-App-20x20@1x.png */; };
+		3F03AFDE22F829C700C194CF /* Icon-App-60x60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F03AFD222F829C700C194CF /* Icon-App-60x60@3x.png */; };
+		3F03AFDF22F829C700C194CF /* Icon-App-76x76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F03AFD322F829C700C194CF /* Icon-App-76x76@2x.png */; };
+		3F03AFE022F829C700C194CF /* Icon-App-29x29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F03AFD422F829C700C194CF /* Icon-App-29x29@3x.png */; };
+		3F03AFE122F829C700C194CF /* Icon-App-40x40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F03AFD522F829C700C194CF /* Icon-App-40x40@2x.png */; };
+		3F03AFE222F829C700C194CF /* Icon-App-76x76@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F03AFD622F829C700C194CF /* Icon-App-76x76@1x.png */; };
+		3F03AFE322F829C700C194CF /* Icon-App-20x20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F03AFD722F829C700C194CF /* Icon-App-20x20@2x.png */; };
+		3F03AFE422F829C700C194CF /* Icon-App-83.5x83.5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F03AFD822F829C700C194CF /* Icon-App-83.5x83.5@2x.png */; };
+		3F03AFE722F829D200C194CF /* Icon-App-60x60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F03AFE522F829D200C194CF /* Icon-App-60x60@2x.png */; };
+		3F03AFE822F829D200C194CF /* Icon-App-29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F03AFE622F829D200C194CF /* Icon-App-29x29@2x.png */; };
+		3F03AFED22F8512B00C194CF /* TaskTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F03AFEC22F8512B00C194CF /* TaskTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		3F03AFA322F8266600C194CF /* MyReminder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyReminder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F03AFA622F8266600C194CF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		3F03AFA822F8266600C194CF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3F03AFA822F8266600C194CF /* AddTasksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTasksViewController.swift; sourceTree = "<group>"; };
 		3F03AFAB22F8266600C194CF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3F03AFAE22F8266600C194CF /* MyReminder.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MyReminder.xcdatamodel; sourceTree = "<group>"; };
 		3F03AFB022F8266700C194CF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F03AFB322F8266700C194CF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F03AFB522F8266700C194CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F03AFCD22F829C600C194CF /* Icon-App-20x20@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-20x20@3x.png"; sourceTree = "<group>"; };
+		3F03AFCE22F829C600C194CF /* Icon-App-40x40@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@1x.png"; sourceTree = "<group>"; };
+		3F03AFCF22F829C600C194CF /* Icon-App-40x40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@3x.png"; sourceTree = "<group>"; };
+		3F03AFD022F829C700C194CF /* Icon-App-29x29@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@1x.png"; sourceTree = "<group>"; };
+		3F03AFD122F829C700C194CF /* Icon-App-20x20@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-20x20@1x.png"; sourceTree = "<group>"; };
+		3F03AFD222F829C700C194CF /* Icon-App-60x60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-60x60@3x.png"; sourceTree = "<group>"; };
+		3F03AFD322F829C700C194CF /* Icon-App-76x76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-76x76@2x.png"; sourceTree = "<group>"; };
+		3F03AFD422F829C700C194CF /* Icon-App-29x29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@3x.png"; sourceTree = "<group>"; };
+		3F03AFD522F829C700C194CF /* Icon-App-40x40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@2x.png"; sourceTree = "<group>"; };
+		3F03AFD622F829C700C194CF /* Icon-App-76x76@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-76x76@1x.png"; sourceTree = "<group>"; };
+		3F03AFD722F829C700C194CF /* Icon-App-20x20@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-20x20@2x.png"; sourceTree = "<group>"; };
+		3F03AFD822F829C700C194CF /* Icon-App-83.5x83.5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-83.5x83.5@2x.png"; sourceTree = "<group>"; };
+		3F03AFE522F829D200C194CF /* Icon-App-60x60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-60x60@2x.png"; sourceTree = "<group>"; };
+		3F03AFE622F829D200C194CF /* Icon-App-29x29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@2x.png"; sourceTree = "<group>"; };
+		3F03AFEC22F8512B00C194CF /* TaskTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,14 +87,37 @@
 			isa = PBXGroup;
 			children = (
 				3F03AFA622F8266600C194CF /* AppDelegate.swift */,
-				3F03AFA822F8266600C194CF /* ViewController.swift */,
+				3F03AFA822F8266600C194CF /* AddTasksViewController.swift */,
+				3F03AFEC22F8512B00C194CF /* TaskTableViewController.swift */,
 				3F03AFAA22F8266600C194CF /* Main.storyboard */,
 				3F03AFB022F8266700C194CF /* Assets.xcassets */,
 				3F03AFB222F8266700C194CF /* LaunchScreen.storyboard */,
 				3F03AFB522F8266700C194CF /* Info.plist */,
 				3F03AFAD22F8266600C194CF /* MyReminder.xcdatamodeld */,
+				3F03AFE922F82B0000C194CF /* Images */,
 			);
 			path = MyReminder;
+			sourceTree = "<group>";
+		};
+		3F03AFE922F82B0000C194CF /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				3F03AFD422F829C700C194CF /* Icon-App-29x29@3x.png */,
+				3F03AFD122F829C700C194CF /* Icon-App-20x20@1x.png */,
+				3F03AFD722F829C700C194CF /* Icon-App-20x20@2x.png */,
+				3F03AFCD22F829C600C194CF /* Icon-App-20x20@3x.png */,
+				3F03AFD022F829C700C194CF /* Icon-App-29x29@1x.png */,
+				3F03AFCE22F829C600C194CF /* Icon-App-40x40@1x.png */,
+				3F03AFD522F829C700C194CF /* Icon-App-40x40@2x.png */,
+				3F03AFCF22F829C600C194CF /* Icon-App-40x40@3x.png */,
+				3F03AFE622F829D200C194CF /* Icon-App-29x29@2x.png */,
+				3F03AFE522F829D200C194CF /* Icon-App-60x60@2x.png */,
+				3F03AFD222F829C700C194CF /* Icon-App-60x60@3x.png */,
+				3F03AFD622F829C700C194CF /* Icon-App-76x76@1x.png */,
+				3F03AFD322F829C700C194CF /* Icon-App-76x76@2x.png */,
+				3F03AFD822F829C700C194CF /* Icon-App-83.5x83.5@2x.png */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +178,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F03AFDE22F829C700C194CF /* Icon-App-60x60@3x.png in Resources */,
+				3F03AFDC22F829C700C194CF /* Icon-App-29x29@1x.png in Resources */,
+				3F03AFDF22F829C700C194CF /* Icon-App-76x76@2x.png in Resources */,
+				3F03AFDD22F829C700C194CF /* Icon-App-20x20@1x.png in Resources */,
+				3F03AFE422F829C700C194CF /* Icon-App-83.5x83.5@2x.png in Resources */,
+				3F03AFE022F829C700C194CF /* Icon-App-29x29@3x.png in Resources */,
+				3F03AFDA22F829C700C194CF /* Icon-App-40x40@1x.png in Resources */,
+				3F03AFE822F829D200C194CF /* Icon-App-29x29@2x.png in Resources */,
+				3F03AFE122F829C700C194CF /* Icon-App-40x40@2x.png in Resources */,
+				3F03AFE222F829C700C194CF /* Icon-App-76x76@1x.png in Resources */,
+				3F03AFE322F829C700C194CF /* Icon-App-20x20@2x.png in Resources */,
+				3F03AFE722F829D200C194CF /* Icon-App-60x60@2x.png in Resources */,
 				3F03AFB422F8266700C194CF /* LaunchScreen.storyboard in Resources */,
 				3F03AFB122F8266700C194CF /* Assets.xcassets in Resources */,
+				3F03AFDB22F829C700C194CF /* Icon-App-40x40@3x.png in Resources */,
 				3F03AFAC22F8266600C194CF /* Main.storyboard in Resources */,
+				3F03AFD922F829C700C194CF /* Icon-App-20x20@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,7 +205,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3F03AFA922F8266600C194CF /* ViewController.swift in Sources */,
+				3F03AFED22F8512B00C194CF /* TaskTableViewController.swift in Sources */,
+				3F03AFA922F8266600C194CF /* AddTasksViewController.swift in Sources */,
 				3F03AFAF22F8266600C194CF /* MyReminder.xcdatamodeld in Sources */,
 				3F03AFA722F8266600C194CF /* AppDelegate.swift in Sources */,
 			);
